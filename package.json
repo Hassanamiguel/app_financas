@@ -11,11 +11,15 @@
   "dependencies": {
     "expo": "~52.0.30",
     "expo-status-bar": "~2.0.1",
+    "moti": "^0.30.0",
     "react": "18.3.1",
-    "react-native": "0.76.6"
+    "react-native": "0.76.6",
+    "react-native-reanimated": "~3.16.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7"
   },
   "private": true
 }
